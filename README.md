@@ -45,5 +45,5 @@ Feel free to check the [issues page](https://github.com/Emmy-github-webdev/lint-
 
 # Show your support
 
-Give a : star if you like this project!
+Give a :star: if you like this project!
 
